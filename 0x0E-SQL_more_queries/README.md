@@ -120,5 +120,3 @@ $ cat 3-force_name.sql | mysql -hlocalhost -uroot -p hbtn_0d_2
   * [103-rating_genres.sql](./103-rating_genres.sql): MySQL script that lists all genres in the
   database `hbtn_0d_tvshows_rate` by their rating, in order of descending rating.
 
-## author
-Anteneh Kassaw Bizuneh
